@@ -35,8 +35,8 @@ Which method is used to retrieve an object from the database using its primary k
 
 A. save()   
 B. update()   
-C. delete()
-S. get()   
+C. delete()   
+D. get()   
 
 ### Answer: D
 
